@@ -28,8 +28,8 @@
       "value" : 1
     }
   ],
-  "description" : "Friendly Marketplace Creature that enjoys long swims in the ocean.",
-  "external_url" : "https://example.com/?token_id=2",
-  "image" : "https://ton.org/img/img_1.svg",
-  "name" : "Boris McCoy"
+  "description" : "Scanography. 2022",
+  "external_url" : "https://flickr.com/about/filmjpg",
+  "image" : "https://github.com/cjcjcj89/token-contract/blob/dd038bac62e51f9ff0ac9b8d1d94b7ae5a4c687c/nft/web-example/CrushedOlympus.jpg",
+  "name" : "Crushed Olympus"
 }

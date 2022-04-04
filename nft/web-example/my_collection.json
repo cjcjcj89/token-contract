@@ -2,7 +2,7 @@
   "name": "Random Collection",
   "description": "JUST",
   "image": "https://github.com/cjcjcj89/token-contract/blob/9be7cba5bd8a8a9194230459f1d9abc6634fe0fc/nft/web-example/rafgdf.jpg",
-  "external_link": "https://ton.org",
+  "collection_address": addr_none,
   "seller_fee_basis_points": 100,
   "fee_recipient": "EQDxPtVCxgQAXHbN05M1VY-sLU8Lfx7Yxo6x2P-ic1pCZH8E"
 }
